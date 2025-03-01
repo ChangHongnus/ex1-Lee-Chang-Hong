@@ -1,6 +1,6 @@
 1) Initialize a Local Git Repository in project folder
    
-  ![image](https://github.com/user-attachments/assets/5635a7e2-4493-4228-910e-be8ecebe411b)
+     ![image](https://github.com/user-attachments/assets/5635a7e2-4493-4228-910e-be8ecebe411b)
   
 2) Create "checkerboard.py" file in project folder. Open checkerboard.py in a text editor (Notepad++) and add the code.
   Add the file to Git and commit the changes.
@@ -31,3 +31,18 @@
 7) Push the classmate-branch with commit to GitHub.
 
     ![image](https://github.com/user-attachments/assets/f8de1166-cd6d-4b02-8da4-9cb04927f000)
+
+8) After classmate has created 'classmate-branch' branch in my Github repository, pull the 'classmate-branch' to my local folder.
+   Merge classmate's branch into my main branch to detect the conflict.
+
+   ![image](https://github.com/user-attachments/assets/52e4619e-7baf-4035-a207-2738759677fc)
+
+9) Alternatively, we can use the pull request in GitHub to merge to resolve the conflict.
+
+   ![image](https://github.com/user-attachments/assets/eb78b35c-bcb3-4e5e-9b74-8f3a8007c0a0)
+   ![image](https://github.com/user-attachments/assets/6938f6b5-c058-4eb0-b2ba-59697c65d50d)
+   ![image](https://github.com/user-attachments/assets/680add5d-1ec1-4ed3-80d6-830386dd9b21)
+
+
+
+
