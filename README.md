@@ -22,3 +22,12 @@
 ![image](https://github.com/user-attachments/assets/aaf53fa0-842c-4f98-a6be-7b6d35f14ddd)
 ![image](https://github.com/user-attachments/assets/64ccbd72-4aef-4b70-b5fc-5abc413298e1)
    
+6) To modify classmate's Checkerboard.py' file by requesting classmate's GitHub repository URL.
+   Clone the repository to my local folder. Change the 'checkerboard.py' file , add to Git, and commit the change.
+
+   ![image](https://github.com/user-attachments/assets/b16bc920-7f68-4d4b-a53b-881da4a89e29)
+
+
+7) Push the classmate-branch with commit to GitHub.
+
+    ![image](https://github.com/user-attachments/assets/f8de1166-cd6d-4b02-8da4-9cb04927f000)
